@@ -1,4 +1,4 @@
 # Parallel-Programming
 
-#mpicc hello.c -o hello.x
-#mpirun -np 2 ./hello.
+<br>mpicc hello.c -o hello.x</br>
+<br>mpirun -np 2 ./hello.x</br>
